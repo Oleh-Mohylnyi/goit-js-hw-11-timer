@@ -51,7 +51,7 @@ class CountdownTimer {
 
 const timer = new CountdownTimer({
     selector: '#timer-1',
-    targetDate: new Date('Aug 15, 2021 23:07'),    
+    targetDate: new Date('Aug 18, 2021 23:07'),    
 });
 
 timer.start(timer.getRefs());
